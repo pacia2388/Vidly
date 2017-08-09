@@ -122,3 +122,5 @@ c:\Projects\Vidly\Vidly\bin\System.Web.Http.WebHost.dll
 c:\Projects\Vidly\Vidly\bin\System.Net.Http.Formatting.xml
 c:\Projects\Vidly\Vidly\bin\System.Web.Http.xml
 c:\Projects\Vidly\Vidly\bin\System.Web.Http.WebHost.xml
+c:\Projects\Vidly\Vidly\bin\AutoMapper.dll
+c:\Projects\Vidly\Vidly\bin\AutoMapper.xml
